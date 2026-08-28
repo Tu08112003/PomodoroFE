@@ -102,6 +102,7 @@ Dự án tuân thủ nghiêm ngặt lộ trình 4 bước chuẩn:
 - [x] **Task 6.5:** Kết nối Cloud workspace vào top bar nhưng không thay đổi Pomodoro, mixer hoặc wallpaper preset curated hiện tại.
 - [x] **Task 6.6:** Chạy Next.js production build bằng `npm run build`; không có script TypeScript check riêng.
 - [ ] **Task 6.7:** Kiểm thử browser thực tế với backend MongoDB test riêng: register/login, reload, logout và CRUD cloud resources.
+- [x] **Task 6.8:** Khởi tạo Git repository PomodoroFE, đẩy mã nguồn lên GitHub qua các branch tính năng, merge vào main và tuân thủ Conventional Commits.
 
 #### Cấu hình chạy local
 
